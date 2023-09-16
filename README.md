@@ -37,7 +37,7 @@ Features
 - *Stock Take
 - *Price Master
 - *Billing
-- *Emails functionality (Sending emails to customers for GRN, Dispatch, Stock Status, etc)
+- *Emails functionality (Sending emails to customers for GRN, Dispatch, Stock Status, Invoice etc)
 
 
 Features marked with * are available in standard/premium editions of KS-WMS.
@@ -64,6 +64,13 @@ Gate Entry
 GRN
 
 ![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/add_grn.PNG?raw=true)
+
+Storage Allocation
+
+![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/add_storage_allocation.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/storage_locations_selection.PNG?raw=true)
+
 
 Role & Permission
 
