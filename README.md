@@ -72,6 +72,11 @@ Storage Allocation
 ![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/storage_locations_selection.PNG?raw=true)
 
 
+Chamberwise Locations Usage
+
+![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/locations_usage.PNG?raw=true)
+
+
 Role & Permission
 
 ![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/add_role.PNG?raw=true)
