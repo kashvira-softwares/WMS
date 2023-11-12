@@ -55,31 +55,31 @@ Login
 
 Menus
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/menus.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/menus.PNG?raw=true)
 
 Gate Entry
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/add_gate_entry.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/add_gate_entry.PNG?raw=true)
 
 GRN
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/add_grn.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/add_grn.PNG?raw=true)
 
 Storage Allocation
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/add_storage_allocation.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/add_storage_allocation.PNG?raw=true)
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/storage_locations_selection.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/storage_locations_selection.PNG?raw=true)
 
 
 Chamberwise Locations Usage
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/locations_usage.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/locations_usage.PNG?raw=true)
 
 
 Role & Permission
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/add_role.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/add_role.PNG?raw=true)
 
 All Screenshots here
 https://github.com/kashvira-softwares/WMS/tree/main/screenshots
