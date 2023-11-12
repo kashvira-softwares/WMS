@@ -51,7 +51,7 @@ Visit: https://kashvira.com/
 
 Login
 
-![alt text](https://github.com/kashvira-softwares/KS-WMS/blob/main/screenshots/login.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/login.PNG?raw=true)
 
 Menus
 
