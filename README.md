@@ -6,29 +6,24 @@ Technologies/Tools used: Visual Studio 2022, MS SQL Server 2019, WinForms, C#
 
 Features
 --------
-** Completed **
+- User master, Role and Permission
 - Customer Master 
 - Customer's Location Master
-- Product Master 
+- Product Master, Group / Sub-Group Master 
 - Storage Type/Chamber/Location Master 
 - Country/State/City Master
 - Company / Branch Master
 - Department / Designation / Employee Master
-- User Master, Role Master, Role-Permissions
+- Opening Stock
+- Import Customers, Products, Locations, Opening Stock
 - Gate Entry 
 - GRN/Unloading 
-- Database backup
-
-** Work in progress **
 - Storage Allocation /Put Away
-
-** Pending **
-- Opening Stock
-- Direct GRN
-- Direct Dispatch
-- Product Transfer
+- Dispath
+- Product Transfer (Change Location)
 - Stock Adjustment
-- Reports & MIS
+- Reports & MIS, Charts, Dashboards
+- Database backup
 - *Dashboard
 - *Reserve Location
 - *Customer Order 
@@ -57,6 +52,10 @@ Menus
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/menus.PNG?raw=true)
 
+Role & Permission
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/add_role.PNG?raw=true)
+
 Gate Entry
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/add_gate_entry.PNG?raw=true)
@@ -71,15 +70,35 @@ Storage Allocation
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/storage_locations_selection.PNG?raw=true)
 
+Dispatch
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/dispatch.PNG?raw=true)
+
+Product Transfer (Change Location)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/prod_transfer.PNG?raw=true)
+
+
+
+Reports
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/cust_stock.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/group_stock.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/prod_stock.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/lot_stock.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/loc_stock.PNG?raw=true)
 
 Chamberwise Locations Usage
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/locations_usage.PNG?raw=true)
 
+Dashboards
 
-Role & Permission
-
-![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/add_role.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/dashboard_chambers.PNG?raw=true)
 
 All Screenshots here
 https://github.com/kashvira-softwares/WMS/tree/main/screenshots
