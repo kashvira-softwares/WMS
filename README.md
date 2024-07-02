@@ -92,9 +92,6 @@ Reports
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/loc_stock.PNG?raw=true)
 
-Chamberwise Locations Usage
-
-![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/locations_usage.PNG?raw=true)
 
 Dashboards
 
