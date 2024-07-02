@@ -48,7 +48,7 @@ Login
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/login.PNG?raw=true)
 
-Menus
+Menus and Home Screen
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/menus.PNG?raw=true)
 
