@@ -50,7 +50,9 @@ Login
 
 Menus and Home Screen
 
-![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/menus.PNG?raw=true)
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/home-screen.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/home-screen2.PNG?raw=true)
 
 Role & Permission
 
@@ -91,6 +93,14 @@ Reports
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/lot_stock.PNG?raw=true)
 
 ![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/loc_stock.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/storage_usage.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/storage_usage2.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/inward-outward1.PNG?raw=true)
+
+![alt text](https://github.com/kashvira-softwares/WMS/blob/main/screenshots/inward-outward3.PNG?raw=true)
 
 
 Dashboards
